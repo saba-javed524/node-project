@@ -1,0 +1,14 @@
+{
+  "name": "node-by-deved",
+  "version": "1.0.0",
+  "description": "I am learning node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon http.js"
+  },
+  "author": "saba",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
